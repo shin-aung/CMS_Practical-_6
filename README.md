@@ -10,6 +10,12 @@ In the next phase, I focused on establishing connections between Trello, GitHub,
 
 Moving forward, I began populating our Trello board with foundational information, outlining project goals and tasks. Simultaneously, I contributed code to our GitHub repository. This phase felt akin to laying the groundwork for a construction project, and I eagerly anticipate witnessing the project evolve further.
 
+Here are the link of the sites that I create for the assignment 2.
+
+Slack: https://app.slack.com/client/T06B9L7KLUA/C06B9L7LDH8
+Trello: https://trello.com/b/M3w6nhDg/team3-academixconnect
+Github Repo: https://github.com/IsaiahWang/AcademixConnect
+
 
 **Estimated Hours**
 
