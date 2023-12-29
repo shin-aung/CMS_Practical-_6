@@ -64,7 +64,7 @@ GitHub: Being the industry standard for version control, GitHub's robust feature
 
 **About our project**
 
-**EDUPIXEL ACADEMY:** Online University & WordPress Development Plan
+**University & WordPress Development Plan**
 
 
  **Team Members:**
@@ -78,7 +78,7 @@ GitHub: Being the industry standard for version control, GitHub's robust feature
 
 **Project Overview:**
 
-EDUPIXEL ACADEMY is an online university offering high-quality, affordable education in five key areas: Design, Programming, Marketing, Accounting, and Business. We aim to provide accessible and flexible learning opportunities for students worldwide through a user-friendly and engaging WordPress website.
+James Cook University is an university offering high-quality, affordable education in five key areas: Design, Programming, Marketing, Accounting, Business and others. We aim to provide accessible and flexible learning opportunities for students worldwide through a user-friendly and engaging WordPress website.
 
 **Timeline:**
 
@@ -118,4 +118,4 @@ Marketing and advertising tools
 **Purposes**
 
 
-EDUPIXEL ACADEMY stands at the forefront of innovative online education, offering a diverse range of courses in Design, Programming, Marketing, Accounting, and Business. As a beacon of knowledge in the digital realm, we empower learners to excel in their chosen fields through cutting-edge curriculum, expert instructors, and a flexible online platform. Join us at EDUPIXEL ACADEMY to embark on a transformative educational journey that transcends geographical boundaries, providing a gateway to success in the dynamic landscapes of design, technology, marketing, finance, and entrepreneurship. Your educational adventure begins here, where pixels meet unlimited possibilities.
+James Cook University stands at the forefront of innovative online education, offering a diverse range of courses in Design, Programming, Marketing, Accounting, and Business. As a beacon of knowledge in the digital realm, we empower learners to excel in their chosen fields through cutting-edge curriculum, expert instructors, and a flexible platform.
