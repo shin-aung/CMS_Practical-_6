@@ -61,7 +61,20 @@ Slack: Recognized as the preferred communication tool for many tech teams, its v
 GitHub: Being the industry standard for version control, GitHub's robust features for managing code, tracking changes, and collaborative coding made it an indispensable choice for our development workflow.
 
 
+
 **About our project**
+
+**EDUPIXEL ACADEMY:** Online University & WordPress Development Plan
+
+
+ **Team Members:**
+
+| Name             | Skills (Technical & Soft)                                    | Responsibilities                                  |
+|------------------|---------------------------------------------------------     |---------------------------------------------------|
+| Shin Thant Aung  | WordPress development, content creation, project management  | Lead developer, content creator, project manager  |
+| Haidong Wang     | Web design, marketing, graphic design                        | Lead designer, marketing specialist               |
+| Xunzheng Chen    | Programming, software development, analytics                 | Lead programmer, analytics specialist             |
+| Xinyue Li        | Accounting, business management, research                    | Financial specialist, business analyst, researcher|
 
 **Project Overview:**
 
@@ -69,14 +82,17 @@ EDUPIXEL ACADEMY is an online university offering high-quality, affordable educa
 
 **Timeline:**
 
-**Milestone**	                                     **Deadline**                  **Team Member(s)**
-Project planning & Trello setup	                December 28, 2023	                      All
-Hosting platform research & selection	          December 31, 2023                  Xunzheng, Haidong
-WordPress theme selection & customization	      January 2, 2024	                    Shin, Xunzheng
-Course content development (Phase 1)	          January 4, 2024	                 Shin, Haidong, Xinyue
-Initial website launch & testing	              January 6, 2024	                        All
-Marketing & promotion strategy	                January 8, 2024	                  Haidong, Xinyue
-Launch of student registration & enrollment	    January 10, 2024	                      All
+
+| Milestone                                    | Deadline          | Team Member(s)                   |
+|----------------------------------------------|-------------------|-----------------------------------|
+| Project planning & Trello setup              | December 30, 2023 | All                               |
+| Hosting platform research & selection        | January 5, 2024   | Xunzheng, Haidong                 |
+| WordPress theme selection & customization    | January 7, 2024   | Shin, Xunzheng                   |
+| Course content development (Phase 1)         | January 20, 2024  | Shin, Haidong, Xinyue             |
+| Initial website launch & testing             | February 5, 2024  | All                               |
+| Marketing & promotion strategy               | February 10, 2024 | Haidong, Xinyue                   |
+| Launch of student registration & enrollment  | February 20, 2024 | All                               |
+
 
 **Next Steps:**
 
