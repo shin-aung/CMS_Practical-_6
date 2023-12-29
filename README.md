@@ -59,3 +59,47 @@ Adaptability is a key takeaway, with the understanding that technological landsc
 Trello: Its simplicity, visual appeal, and user-friendly interface make it an ideal choice for managing tasks and projects, complemented by seamless integration with other tools.
 Slack: Recognized as the preferred communication tool for many tech teams, its versatility in quick chats, file sharing, and team-wide updates made it the natural choice for our project's communication needs.
 GitHub: Being the industry standard for version control, GitHub's robust features for managing code, tracking changes, and collaborative coding made it an indispensable choice for our development workflow.
+
+
+**About our project**
+
+**Project Overview:**
+
+EDUPIXEL ACADEMY is an online university offering high-quality, affordable education in five key areas: Design, Programming, Marketing, Accounting, and Business. We aim to provide accessible and flexible learning opportunities for students worldwide through a user-friendly and engaging WordPress website.
+
+**Timeline:**
+
+**Milestone**	                                     **Deadline**                  **Team Member(s)**
+Project planning & Trello setup	                December 28, 2023	                      All
+Hosting platform research & selection	          December 31, 2023                  Xunzheng, Haidong
+WordPress theme selection & customization	      January 2, 2024	                    Shin, Xunzheng
+Course content development (Phase 1)	          January 4, 2024	                 Shin, Haidong, Xinyue
+Initial website launch & testing	              January 6, 2024	                        All
+Marketing & promotion strategy	                January 8, 2024	                  Haidong, Xinyue
+Launch of student registration & enrollment	    January 10, 2024	                      All
+
+**Next Steps:**
+
+**Group Agreement & Contacts:** Collaboratively complete the Trello section, defining shared expectations and individual skill contributions.
+**Project Planning:** Utilize Trello to assign tasks, establish communication channels, and track progress.
+**Hosting Platform Research:** Xunzheng and Haidong will investigate and compare different hosting options suitable for the website's projected growth.
+**WordPress Development:** Shin and Xunzheng will select and customize a WordPress theme, ensuring ease of navigation and user experience.
+**Content Development:** Shin, Haidong, and Xinyue will create compelling course descriptions, marketing materials, and initial study modules.
+**Website Launch & Testing:** All team members will contribute to launching the website, conducting thorough testing, and addressing any bugs.
+**Marketing & Promotion:** Haidong and Xinyue will develop a comprehensive marketing strategy to attract potential students and generate buzz around EDUPIXEL ACADEMY.
+**Student Registration & Enrollment:** Establish a seamless registration process on the website, enabling students to easily sign up and start their educational journey.
+
+ 
+**Resources:**
+
+Trello board
+WordPress resources
+Hosting platform comparisons
+Online education best practices
+Marketing and advertising tools
+
+
+**Purposes**
+
+
+EDUPIXEL ACADEMY stands at the forefront of innovative online education, offering a diverse range of courses in Design, Programming, Marketing, Accounting, and Business. As a beacon of knowledge in the digital realm, we empower learners to excel in their chosen fields through cutting-edge curriculum, expert instructors, and a flexible online platform. Join us at EDUPIXEL ACADEMY to embark on a transformative educational journey that transcends geographical boundaries, providing a gateway to success in the dynamic landscapes of design, technology, marketing, finance, and entrepreneurship. Your educational adventure begins here, where pixels meet unlimited possibilities.
